@@ -1,0 +1,6 @@
+{
+  "name": "Todo Alerts",
+  "description": "A simple todo list app that sends alert notifications for pending and overdue tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
